@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokemon Go Tracker App</string>
+    <string name="error_message">error message</string>
+    <string name="uncommon_string">Uncommon</string>
+    <string name="very_rare_string">Very Rare</string>
+    <string name="special_string">Special</string>
+    <string name="rare_string">Rare</string>
+
+    <string-array name="rarity_selection">
+        <item>Uncommon</item>
+        <item>Rare</item>
+        <item>Very Rare</item>
+        <item>Special</item>
+    </string-array>
+</resources>
